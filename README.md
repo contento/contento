@@ -1,6 +1,8 @@
 Hi there:
 
-Sometimes I go by **akaProgrammer**!
+Sometimes I go by `akaProgrammer`!
 
 
-Website: [conten.to](https://conten.to)
+Personal Website: [conten.to](https://conten.to)
+
+Company Website: [Chalo.ai](https://chalo.ai)
